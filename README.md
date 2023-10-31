@@ -1,7 +1,6 @@
 - 🦕 welcome to my page, im alina !
 - 🌀 i’m interested in data science, data visualization, ux-ui design, web development & media
 - 🌱 i’m currently learning how to advance my python-skills and machine learning-knowledge at uni
-- 💞️ i’m looking to collaborate on fun little projects that might help a lot of people :)
 - 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de
 
 <!---
