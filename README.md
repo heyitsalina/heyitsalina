@@ -1,6 +1,6 @@
 
  # 💫 about me:
-🌀 i’m interested in data science, data visualization, graphic design & ux/ui<br> 🌱 currently studying data science, ai & smart systems in düsseldorf, germany<br> 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de
+🌀 i’m interested in data science, data visualization, graphic design & ux/ui<br> 🌱 currently studying data science, ai & smart systems in düsseldorf, germany<br> 🦕 i like doodling and shooting on film<br> 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de
 
 
 # 🫧 tech stack:
