@@ -1,4 +1,6 @@
 
+<iframe src="https://giphy.com/embed/KVeeqrI575N8A" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mtv-ridiculousness-red-panda-KVeeqrI575N8A">via GIPHY</a></p>
+
  # 💫 about me:
 🌀 i’m interested in data science, data visualization, graphic design & ux/ui<br> 🌱 currently studying data science, ai & smart systems in düsseldorf, germany<br> 🦕 i like doodling and shooting on film<br> 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de
 
