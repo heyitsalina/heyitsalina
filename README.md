@@ -3,7 +3,7 @@
 
 - 🦕 welcome to my github, i'm alina !
 - 🌀 i’m interested in data science, data visualization, graphic design & ux/ui
-- 🌱 i’m currently studying data science, ai & smart systems in düsseldorf, germany
+- 🌱 currently studying data science, ai & smart systems in düsseldorf, germany
 - 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de
 
 <!---
