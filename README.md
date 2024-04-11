@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyitsalina&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=heyitsalina&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=heyitsalina&label=profile%20views&color=0&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
 heyitsalina/heyitsalina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
