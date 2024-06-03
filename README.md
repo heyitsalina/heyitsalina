@@ -2,7 +2,7 @@
 ![giphy](https://github.com/heyitsalina/heyitsalina/assets/146937991/53fae742-74cf-4571-958c-c34e7276e18e)
 
 
- # 💫 welcome to my github!
+ # 💫 hey, i'm alina!
 🌀 i’m interested in data science, data visualization, graphic design & ux/ui<br> 🌱 currently studying data science, ai & smart systems in düsseldorf, germany<br> 🦕 i like doodling and shooting on film<br> 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de
 
 
