@@ -3,7 +3,7 @@
 
 
  # 💫 hey, i'm alina!
-🌀 i’m interested in data science, data visualization, graphic design & ux/ui<br> 🌱 currently studying data science, ai & smart systems in düsseldorf, germany<br> 🦕 i like doodling and shooting on film<br> 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de
+🌀 i’m interested in data science, data visualization, graphic design & ux/ui<br> 🌱 currently studying data science, ai & smart systems in düsseldorf, germany<br> 🦕 i like doodling and shooting on film<br> 📫 How to reach me: alina.weidemann@study.hs-duesseldorf.de <br> 🧚🏻‍♂️ as you can probably tell, i love red pandas
 
 
 # 🫧 my stats
